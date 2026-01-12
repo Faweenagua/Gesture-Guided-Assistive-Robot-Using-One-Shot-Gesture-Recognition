@@ -1,4 +1,4 @@
-# Gesture-Guided-Assistive-Robot-Using-One-Shot-Gesture-Recognition
+# Gesture Guided Assistive Robot Using One-Shot Gesture Recognition
 Assistive robots aim to improve human independence by supporting tasks such as mobility assistance, object handling, and social interaction. 
 In this work, we present an autonomous human-following assistive robot that interprets user intent through gesture-based commands and adapts its behavior in real time within indoor environments. 
 The system combines a webcam-based pose-estimation module for spatial perception with a One-Shot Gesture Recognition (OSG) framework capable of learning and recognizing gestures from a single demonstration. 
